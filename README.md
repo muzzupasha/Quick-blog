@@ -3,7 +3,7 @@ AI Powered Blog App (MERN + Gemini + ImageKit) 🚀
 A modern, full‑stack blogging platform with an admin dashboard, AI‑generated content, optimized media delivery, category filters, search, and a full comments workflow — built with MongoDB, Express, React, and Node.js, integrated with Google Gemini API and ImageKit, and deployable on Vercel. 🧠📸⚡️
 
 ### Live Preview
-- Example demo (from tutorial): [quickblog‑gs.vercel.app](https://blog-app-ten-sigma-70.vercel.app/) 🌐
+- Live preview 🚀: [quickblog‑gs.vercel.app](https://blog-app-ten-sigma-70.vercel.app/) 🌐
 
 ## Highlights ✨
 - AI content generation with Google Gemini for instant blog descriptions based on title/context 🤖
@@ -101,6 +101,11 @@ Run dev:
 - JWT‑based admin auth for protected routes 🔑
 - Validate uploads and sanitize AI output prior to publish 🧹
 - Do not expose private keys in client; keep secrets server‑side 🛡️
+
+- Acknowledgments
+ Google AI Studio (Gemini).
+ ImageKit.
+ Vercel.
 
 ## Roadmap 🗺️
 - Draft autosave and scheduled publishing ⏱️
